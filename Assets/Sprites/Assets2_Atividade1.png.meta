@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 68d5d1a902034404a9d4aedbca3b135d
+timeCreated: 1496415147
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Assets2_Atividade1_0
+    21300002: Assets2_Atividade1_1
+    21300004: Assets2_Atividade1_2
+    21300006: Assets2_Atividade1_3
+    21300008: Assets2_Atividade1_4
+    21300010: Assets2_Atividade1_6
+    21300012: Assets2_Atividade1_7
+    21300014: Assets2_Atividade1_8
+    21300016: Assets2_Atividade1_9
+    21300018: Assets2_Atividade1_10
+    21300020: Assets2_Atividade1_11
+    21300022: Assets2_Atividade1_12
+    21300024: Assets2_Atividade1_13
+    21300026: Assets2_Atividade1_14
+    21300028: Assets2_Atividade1_15
+    21300030: Assets2_Atividade1_16
+    21300032: Assets2_Atividade1_17
+    21300034: Assets2_Atividade1_18
+    21300036: Assets2_Atividade1_19
+    21300038: Assets2_Atividade1_20
+    21300040: Assets2_Atividade1_21
+    21300042: Assets2_Atividade1_22
+    21300044: Assets2_Atividade1_23
+    21300046: Assets2_Atividade1_24
+    21300048: Assets2_Atividade1_25
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assets2_Atividade1_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 535
+        width: 279
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 504
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 621
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_3
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 564
+        width: 173
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 526
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 505
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_7
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 394
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 386
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 366
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 437
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_11
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 358
+        width: 107
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 252
+        width: 172
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 271
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_15
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 148
+        width: 137
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 70
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 148
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_18
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 158
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_19
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 176
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 52
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 122
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_22
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 105
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 11
+        width: 103
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_24
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 25
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets2_Atividade1_25
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

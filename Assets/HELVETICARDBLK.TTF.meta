@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 59d8b3330abe555479e0d0ca717c6fba
+timeCreated: 1496415341
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HelveticaRounded-Black
+  fontNames:
+  - HelveticaRounded-Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

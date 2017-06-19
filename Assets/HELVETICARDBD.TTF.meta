@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c0878db7a4147514a9568257f9614608
+timeCreated: 1496415341
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HelveticaRounded
+  fontNames:
+  - HelveticaRounded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
